@@ -25,7 +25,7 @@ const RightSection = () => {
           Monkey D. Luffy is the main protagonist of One Piece and the determined captain of the Straw Hat Pirates. After eating the Gum-Gum Devil Fruit, his body gained rubber-like properties, which he combines with relentless creativity and raw willpower in battle. Luffy’s defining trait is not intelligence or strategy, but absolute conviction once he decides something, he does not retreat. His ultimate goal is to find the One Piece and become the Pirate King, not for power or status, but because it represents complete freedom.Monkey D. Luffy is the central figure of One Piece and the fearless captain of the Straw Hat Pirates. His rubber like abilities, gained from the Gum-Gum Devil Fruit, are secondary to his real strength: unbreakable willpower and absolute belief in his dreams. Luffy values freedom above all else and measures people not by status or power, but by loyalty and intent. 
         </p>
       </div>
-     
+      
 
     </div>
   )

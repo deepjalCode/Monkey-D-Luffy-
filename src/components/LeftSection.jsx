@@ -4,7 +4,7 @@ import Member from './Member'
 const LeftSection = (props) => {
   return (
     
-    <div className='w-[40%] bg-gray-200 px-12 py-3'>
+    <div className='w-[40%] px-12 py-3'>
       <div className='bg-pink-200 flex px-1 py-1 rounded-tl-4xl rounded-bl-xl rounded-2xl'>
         <img 
           className='h-26 w-30 object-cover rounded-tr-xl rounded-bl-xl rounded-tl-4xl rounded-br-4xl '
